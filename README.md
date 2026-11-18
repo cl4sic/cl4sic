@@ -1,16 +1,23 @@
-## Hi there 👋
+### Lenguajes
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-<!--
-**cl4sic/cl4sic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### IA, Datos & Cálculo
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-Here are some ideas to get you started:
+### Entorno & Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Estadísticas en tiempo real
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cl4sic&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true" alt="Estadísticas de GitHub de cl4sic" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cl4sic&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Lenguajes más usados por cl4sic" />
+</p>
