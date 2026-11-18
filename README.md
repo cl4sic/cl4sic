@@ -18,6 +18,6 @@
 ### Estadísticas en tiempo real
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cl4sic&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true" alt="Estadísticas de GitHub de cl4sic" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cl4sic&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas de GitHub de cl4sic" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cl4sic&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Lenguajes más usados por cl4sic" />
 </p>
