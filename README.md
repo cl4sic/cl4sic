@@ -24,6 +24,5 @@
 ### Estadísticas en tiempo real
 
 <p align="left">
-  <img height="180em" src="https://streak-stats.demolab.com?user=cl4sic&theme=tokyonight&hide_border=true" alt="Racha de cl4sic" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cl4sic&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Lenguajes más usados por cl4sic" />
 </p>
